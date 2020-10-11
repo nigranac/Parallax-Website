@@ -7,7 +7,6 @@
 
 :muscle: :muscle: :muscle:   
 
-- **Netflix Survey Form** 
 [Web-Page](https://nigranac.github.io/parallax-website/)
 
 
